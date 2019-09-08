@@ -1,13 +1,22 @@
 {
-    "name": "deeold",
-    "displayName": "DeeOld",
+    "name": "deepee",
+    "displayName": "Deepee",
     "description": "Dark blue color theme",
     "publisher": "Xyr0s1gn",
     "version": "1.0.0",
     "repository": {
 		    "type": "git",
-		    "url": "https://github.com/Xyr0s1gn/deeold"
+		    "url": "https://github.com/wesbos/cobalt2-vscode"
 	    },
+    "categories": [
+		    "Themes"
+  	],
+    "keywords": [
+		    "VSCode",
+		    "Themes",
+        "Deepee",
+        "Blue",
+	  ],
     "engines": {
         "vscode": "^1.38.0"
     },
@@ -17,9 +26,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Deeold",
+                "label": "Deepee",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Deeold-color-theme.json"
+                "path": "./themes/Deepee-color-theme.json"
             }
         ]
     }
