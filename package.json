@@ -1,0 +1,26 @@
+{
+    "name": "deepee",
+    "displayName": "Deepee",
+    "description": "Dark blue color theme",
+    "publisher": "Xyr0s1gn",
+    "version": "1.0.0",
+    "repository": {
+		    "type": "git",
+		    "url": "https://github.com/wesbos/cobalt2-vscode"
+	    },
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deepee",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deepee-color-theme.json"
+            }
+        ]
+    }
+}
