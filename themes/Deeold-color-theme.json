@@ -33,7 +33,7 @@
 		// dropdown
 		"dropdown.background": "#171F2E",
 		"dropdown.border": "#1D283B",
-		"dropdown.foreground": "#E3F0FF",
+		"dropdown.foreground": "#E3F0FF58",
 		// editor
 		// This is the main background color
 		"editor.background": "#121824",
@@ -80,7 +80,7 @@
 		// editorGroup
 		//"editorGroup.background": "#A22929",
 		"editorGroup.border": "#121824",
-		"editorGroup.dropBackground": "#3B5364",
+		"editorGroup.dropBackground": "#3B536458",
 		// editorGroupHeader
 		"editorGroupHeader.noTabsBackground": "#121824",
 		"editorGroupHeader.tabsBackground": "#121824",
@@ -124,7 +124,7 @@
 		"input.background": "#171F2E",
 		"input.border": "#121824",
 		"input.foreground": "#58678A",
-		"input.placeholderForeground": "#58678A",
+		"input.placeholderForeground": "#58678A30",
 		"inputOption.activeBorder": "#58678A",
 		"inputValidation.errorBackground": "#121824",
 		"inputValidation.errorBorder": "#DE333C",
@@ -133,9 +133,9 @@
 		"inputValidation.warningBackground": "#121824",
 		"inputValidation.warningBorder": "#DE333C",
 		// list
-		"list.activeSelectionBackground": "#222E42",
+		"list.activeSelectionBackground": "#222E4258",
 		"list.activeSelectionForeground": "#E3F0FF",
-		"list.dropBackground": "#121824",
+		"list.dropBackground": "#12182458",
 		"list.focusBackground": "#222E42",
 		"list.focusForeground": "#E3F0FF",
 		"list.highlightForeground": "#FF9713",
