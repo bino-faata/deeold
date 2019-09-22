@@ -1,27 +1,27 @@
 {
-    "name": "deeold",
-    "displayName": "Deeold",
-    "description": "Not very dark/blue theme",
-    "version": "0.0.2",
-    "publisher": "xyr0z1ne",
-	    "icon": "deeold.png",
-	    "repository": {
-		    "type": "git",
-		    "url": "https://github.com/Xyr0s1gn/deeold.git"
-	  },
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Deeold",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Deeold-color-theme.json"
-            }
-        ]
-    }
+  "name": "deeold",
+  "displayName": "Deeold",
+  "description": "Not very dark/blue theme",
+  "version": "0.0.3",
+  "publisher": "xyr0z1ne",
+  "icon": "deeold.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xyr0s1gn/deeold.git"
+  },
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deeold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deeold-color-theme.json"
+      }
+    ]
+  }
 }
